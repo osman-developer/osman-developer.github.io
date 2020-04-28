@@ -91,7 +91,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div  class=\"flex-container\">\n  \n    <div  class=\"flex-item1\">\n        <i class='fas fa-virus fa-3x' style='font-size:36px'></i>\n        <p>Confirmed Cases</p>\n        <p>{{Corona.cases}}</p>\n    </div>\n\n\n    <div class=\"flex-item2\">\n        <i class=\"fa fa-heartbeat fa-3x\" aria-hidden=\"true\" style=\"color: red;\"></i>\n            <p>Recovered Cases</p>\n            <p>{{Corona.recovered}}</p>\n            \n    </div>\n\n\n    <div class=\"flex-item3\">\n        <i class=\"fas fa-skull-crossbones fa-3x\" style=\"color: white;\"></i>\n            <p>Total Deaths</p>\n            <p>{{Corona.deaths}}</p> \n    </div>\n    \n</div>\n<div><p class=\"footer\">Developed by Othman Moussawel ©</p></div>\n";
+    __webpack_exports__["default"] = "<div  class=\"flex-container\">\n  \n    <div  class=\"flex-item1\">\n        <i class='fas fa-virus fa-3x' style=\"color: white;\"></i>\n        <p>Confirmed Cases</p>\n        <p>{{Corona.cases}}</p>\n    </div>\n\n\n    <div class=\"flex-item2\">\n        <i class=\"fa fa-heartbeat fa-3x\" aria-hidden=\"true\" style=\"color: red;\"></i>\n            <p>Recovered Cases</p>\n            <p>{{Corona.recovered}}</p>\n            \n    </div>\n\n\n    <div class=\"flex-item3\">\n        <i class=\"fas fa-skull-crossbones fa-3x\" style=\"color: white;\"></i>\n            <p>Total Deaths</p>\n            <p>{{Corona.deaths}}</p> \n    </div>\n    \n</div>\n<div><p class=\"footer\">Developed by Othman Moussawel ©</p></div>\n";
     /***/
   },
 
