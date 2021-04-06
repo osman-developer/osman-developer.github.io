@@ -1,3 +1,3 @@
 # osman-developer.github.io
-Hello, an Angular project of Corona tracking. In this project I used https://coronavirus-19-api.herokuapp.com/countries/+countryName API in which I retreived the corona cases from all the countries around the world. 
+Hello, Angular project of Corona tracking. In this project I used https://coronavirus-19-api.herokuapp.com/countries/+countryName API in which I retreived the corona cases from all the countries around the world. 
 In this application I did two components and I made a service in order for them to communicate together. I updated this application several times in terms of designs and fixed the name of some Countries.
